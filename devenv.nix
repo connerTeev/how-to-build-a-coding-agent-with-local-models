@@ -9,7 +9,6 @@
     pkgs.git 
     pkgs.nodejs_20
     pkgs.nodePackages.typescript
-    pkgs.nodePackages.ts-node
     pkgs.ripgrep
   ];
 
