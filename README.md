@@ -167,27 +167,6 @@ export ANTHROPIC_API_KEY="your-api-key-here"
 
 > Note: This project is designed to work completely locally with Ollama. The Anthropic API key is only needed if you want to compare with Claude directly.
 
-## 🚀 Getting Started
-
-### ✅ Prerequisites
-
-* Go 1.24.2+ or [devenv](https://devenv.sh/) (recommended for easy setup)
-* An [Anthropic API Key](https://www.anthropic.com/product/claude)
-
-### 🔧 Set Up Your Environment
-
-**Option 1: Recommended (using devenv)**
-
-```bash
-devenv shell  # Loads everything you need
-```
-
-**Option 2: Manual setup**
-
-```bash
-# Make sure Go is installed
-go mod tidy
-```
 
 ### 🔐 Add Your API Key
 
