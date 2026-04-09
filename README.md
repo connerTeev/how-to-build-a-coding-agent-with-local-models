@@ -167,13 +167,6 @@ export ANTHROPIC_API_KEY="your-api-key-here"
 
 > Note: This project is designed to work completely locally with Ollama. The Anthropic API key is only needed if you want to compare with Claude directly.
 
-
-### 🔐 Add Your API Key
-
-```bash
-export ANTHROPIC_API_KEY="your-api-key-here"
-```
-
 ---
 
 ## 🏁 Start with the Basics
