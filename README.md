@@ -357,7 +357,7 @@ This workshop helps you:
 * Understand agent architecture
 * Learn to build smart assistants
 * Grow capabilities step-by-step
-* Practice using Claude and Go together
+* Practice using local models and or Claude and Go together
 
 > All operations happen locally on your machine. No internet connectivity required after initial setup.
 
